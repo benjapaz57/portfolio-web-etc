@@ -1,0 +1,25 @@
+
+#hero-sarcannabis {
+    background-image: url(./assets/img/sarcanabis.png);
+    background-color: #cccccc;
+    height: 300px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+#hero-potenciar {
+    background-image: url(./assets/img/potenciar.png);
+    background-color: #cccccc;
+    height: 300px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+#hero-caniamerica {
+    background-image: url(./assets/img/caniamerica.png);
+    background-color: #cccccc;
+    height: 300px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
